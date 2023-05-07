@@ -2,4 +2,6 @@
 
 # START
 - Run npm install
-- Run npm start serve
+
+# RUN
+- Run npm run serve
