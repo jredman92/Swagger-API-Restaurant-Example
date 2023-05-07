@@ -1,7 +1,7 @@
 # Swagger-API-Restaurant-Example
 
 # START
-- Run npm install
+- Run 'npm install'
 
 # RUN
-- Run npm run serve
+- Run 'npm run serve'
